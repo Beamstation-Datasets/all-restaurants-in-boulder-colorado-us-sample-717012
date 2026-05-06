@@ -1,6 +1,6 @@
 # All Restaurants in Boulder, Colorado, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `717012` |
 | Location | Boulder |
 | Category | Restaurants |
-| Full dataset size | 403 records |
-| Free sample size | 40 records (9.93%) |
-| Last export | 2026-04-28T15:33:36.481558+00:00 |
+| Full dataset size | 428 records |
+| Free sample size | 42 records (9.81%) |
+| Last export | 2026-05-06T09:42:02.992772+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-boulder-colorado-us-sample-717012/releases/download/sample-latest/beamstation_717012_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
